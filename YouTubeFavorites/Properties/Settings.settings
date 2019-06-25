@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="YouTubeFavorites.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="YOUTUBE_ACCOUNT_CHANNEL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JimKelleher</Value>
+    </Setting>
+    <Setting Name="YOUTUBE_ACCOUNT_USER_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jim_kelleher@comcast.net</Value>
+    </Setting>
+    <Setting Name="YOUTUBE_ACCOUNT_PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">medford2517</Value>
+    </Setting>
+    <Setting Name="DATABASE_CONNECTION_STRING" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=kelleher.db.6699012.hostedresource.com;Initial Catalog=kelleher;Persist Security Info=True;User ID=kelleher;Password=F5#mUnKX</Value>
+    </Setting>
+    <Setting Name="RUN_URL_PREFIX_DEV" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:2530/Default.aspx/</Value>
+    </Setting>
+    <Setting Name="RUN_URL_PREFIX_PROD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.workingweb.info/JimRadio/</Value>
+    </Setting>
+    <Setting Name="BROWSER_CHROME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chrome</Value>
+    </Setting>
+    <Setting Name="BROWSER_FIREFOX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">firefox</Value>
+    </Setting>
+    <Setting Name="BROWSER_INTERNET_EXPLORER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iexplore</Value>
+    </Setting>
+    <Setting Name="BROWSER_SAFARI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">safari</Value>
+    </Setting>
+    <Setting Name="BROWSER_OPERA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">opera</Value>
+    </Setting>
+    <Setting Name="YOUTUBE_API_BROWSER_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AIzaSyD19DQuEq9Jc_R75eyOZdLi2qzmmQqG6ss</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
